@@ -2,7 +2,7 @@
 
 ## Overview ##
 Lab 3: SMTP Client. \
-A SMTP client delivers email with text and image content.
+An SMTP client delivers email with text and image content.
 
 ## Demo ##
 Received email
