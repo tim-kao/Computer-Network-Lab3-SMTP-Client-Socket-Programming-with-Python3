@@ -10,8 +10,8 @@ Received email
 
 ## Feature ##
 1. Authentication - Supports username/password authentication. 
-2. MIME format - Support MIME-Version: 1.0. 
-3. Image/Text - Support Image/Text in HTML. 
+2. MIME format - Supports MIME-Version: 1.0. 
+3. Image/Text - Supports Image/Text in HTML. 
 ##  Usage Examples ##
 1. Execute python3 .\smtp.py \
    a. Check mail box.
